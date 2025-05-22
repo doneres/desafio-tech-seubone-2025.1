@@ -1,0 +1,18 @@
+:root {
+  --fanation-primary: #9A0FF1;
+  --fanation-purple-dark: #440986;
+  --fanation-white: #ffffff;
+  --fanation-dark: #212121;
+  --fanation-darker: #070707;
+  --fanation-black: #000000;
+  --fanation-gray-100: #F2F2F7;
+  --fanation-gray-200: #D1D1D6;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Inter", sans-serif;
+  font-size: 16px;
+}

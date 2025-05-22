@@ -1,0 +1,19 @@
+.menu{
+    width: 100%;
+    font-size: 1rem;
+    color: var(--fanation-black);
+    border-radius: 1rem;
+    padding: .5rem;
+
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+}
+
+.menu:hover{
+    background-color: var(--fanation-purple-dark);
+    color: var(--fanation-white);
+    transition: .3s;
+    cursor: pointer;
+}
+
